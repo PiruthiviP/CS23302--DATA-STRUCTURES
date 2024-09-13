@@ -22,15 +22,19 @@ Upon completion of the course, students will be able to:
 
 ## Syllabus
 
-| Unit | Name                                 | Content                                                                                                                                                                                           |
+| Module | Name                                 | Content                                                                                                                                                                                           |
 | ------ | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.     | LINEAR DATA STRUCTURES     | Introduction to Data Structures & Algorithms – Asymptotic notations - ADT – Array - List - Linked List - Singly Linked List - Doubly Linked List – Circular List – Elementary Operations - Stack – Queue - Array Implementation – Linked List Implementation – Applications.                                                                                   |
-| 2.    | NON-LINEAR DATA STRUCTURES           | Tree - Binary Tree – Properties – Representation - Binary Search Tree – Operation - Traversal – Threaded Binary Tree – Heap – Priority Queue implementation with heap - Graph - Terminologies – Representation – BFS - DFS - Connected Components – Minimum Spanning Tree.
-                                                          |
-| 3.   | SORTING              | Insertion Sort – Heap Sort - Merge Sort – Quick Sort – Counting Sort – External Sorting – Multi- way Merge Sort. 
-                                                          |
-| 4.   | SEARCHING           | Linear Search – Binary Search - Hash Function – Separate Chaining - Linear Probing – Quadratic Probing – Double Hashing – Rehashing.                                                                                                             |
-| 5.      |SEARCH STRUCTURES                     |Balanced Tree - AVL Tree – Red Black Tree – Multi-way Search Tree - B-Tree – Binary Trie – Multi-way Trie – Suffix tree.                                                                                                                                                                         |
+| I      | LINEAR DATA STRUCTURES       | Introduction to Data Structures & Algorithms – Asymptotic notations - ADT – Array - List - Linked List - Singly Linked List - Doubly Linked List – Circular List – Elementary Operations - Stack – Queue - Array Implementation – Linked List Implementation – Applications.
+                                                                                  |
+| II     | NON-LINEAR DATA STRUCTURES                  |Tree - Binary Tree – Properties – Representation - Binary Search Tree – Operation - Traversal – Threaded Binary Tree – Heap – Priority Queue implementation with heap - Graph - Terminologies – Representation – BFS - DFS - Connected Components – Minimum Spanning Tree.                                                           |
+| III    | SORTING               | Insertion Sort – Heap Sort - Merge Sort – Quick Sort – Counting Sort – External Sorting – Multi- way Merge Sort. |
+| IV     |SEARCHING                              | Linear Search – Binary Search - Hash Function – Separate Chaining - Linear Probing – Quadratic Probing – Double Hashing – Rehashing.                                                                                                                 |
+| V      | SEARCH STRUCTURES                 | Balanced Tree - AVL Tree – Red Black Tree – Multi-way Search Tree - B-Tree – Binary Trie – Multi-way Trie – Suffix tree.                                                                                                                                                                     |
+| VI     | Multithreading                       | Multithreading – States, Synchronization, Avoiding Deadlocks                                                                                                                                      |
+| VII    | Networking and Database Connectivity | Java Networking – Inet address class, Sockets, JDBC                                                                                                                                               |
+| VIII   | Frameworks                           | Collections Frameworks – Lists, Vector and Stack classes, Generics                                                                                                                                |
+| IX     | Web Development                      | Applets, Servlets / JSP                                                                                                                                                                           |
+| X      | Web Development                      | JSF, RMI, Web Services                                                                                                                                                                            |
 
 
 ## Textbooks
