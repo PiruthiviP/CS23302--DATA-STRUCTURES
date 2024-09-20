@@ -64,7 +64,7 @@ A special thank you to our college faculties, [Dr Jayashree Padmanabhan ](https:
 
 For any inquiries or contributions, please contact me
 
-[Piruthivi P](mailto:vijaisuriam@gmail.com), <br>
+[Piruthivi P](mailto:piruthiviu@gmail.com), <br>
 2023503049, <br>
 Dept. of Computer Technology, <br>
 MIT Campus, Anna University, <br>
